@@ -1,0 +1,53 @@
+nav{
+    background-color: black;
+    width: 100%;
+    padding: 12px;
+}
+a{
+    text-decoration: none;
+    color: white;
+    font-size: 24px;
+    padding-left: 24px;
+}
+table{
+    margin-right: auto;
+    width: 800px;
+    margin-left: auto;
+    margin-top: 24px;
+}
+table, td,th{
+    border: 1px solid white;
+    background-color: white;
+    padding:10px;
+    border-collapse: collapse;
+}
+tr{
+    border-bottom: 1.5px solid #ddd;
+}
+caption{
+    background-color:rgba(56, 168, 56, 0.959);
+    width: 900px;
+    text-align: left;
+    color: white;
+    font-size: 24px;
+    padding: 20px;
+    height: 15px;
+}
+th{
+    font-weight: bold;
+    font-size: 18px;
+    text-align: center;
+}
+td{
+    font-size: 18px;
+    font-weight: 400;
+    text-align: center;
+
+}
+body{
+    margin: 0px;
+    background-image: url(../image/andrea-caramello.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    overflow: hidden;
+}
